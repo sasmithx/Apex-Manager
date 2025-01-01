@@ -26,6 +26,7 @@ Apex Manager Application is a web-based tool for efficiently managing customer a
 **Prerequisites**
 
 - **IDE :** Webstorm, VS Code
+- **Node js**
 
 ## Clone the repository:
 
