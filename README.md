@@ -32,6 +32,17 @@ Apex Manager Application is a web-based tool for efficiently managing customer a
 ```bash
   https://github.com/sasmithx/Apex-Manager.git
 ```
+## Configure  router
+
+```bash
+  npm i react-router-dom
+```
+
+## Run
+```bash
+  npm run dev
+```
+
 ## 
 
 
